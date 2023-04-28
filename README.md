@@ -23,16 +23,16 @@ This application provides users with the following features
 #### Screenshots
 
 ##### Global Chat
-![Global Chat](https://i.imgur.com/VkdwAme.png)
+
 <br/><br/>
 ##### Private Chat
-![Private Chat](https://i.imgur.com/jdCBYu4.png)
+
 <br/><br/>
 ##### Login
-![Login](https://i.imgur.com/6iobucn.png)
+
 <br/><br/>
 ##### Register
-![Register](https://i.imgur.com/AMkpl9C.png)
+
 
 ### How to use
 

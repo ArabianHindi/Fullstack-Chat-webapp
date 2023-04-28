@@ -22,16 +22,20 @@ This application provides users with the following features
 
 #### Screenshots
 
-##### Global Chat
 
+##### Global Chat
+![screenshot1](https://user-images.githubusercontent.com/105066899/235074955-40221e65-2871-444b-a9d4-b80f7333dd28.png)
 <br/><br/>
 ##### Private Chat
+![screenshot2](https://user-images.githubusercontent.com/105066899/235075054-dcfb31fa-8600-4c78-a9c9-c4a3f472364b.png)
 
 <br/><br/>
 ##### Login
+![login](https://user-images.githubusercontent.com/105066899/235075078-875801bd-9ac7-464a-8fa6-2b78348d0e96.png)
 
 <br/><br/>
 ##### Register
+![register](https://user-images.githubusercontent.com/105066899/235075095-1f48b6e4-a38f-4bfc-b72d-5cd37691c45a.png)
 
 
 ### How to use
